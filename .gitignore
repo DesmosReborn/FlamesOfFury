@@ -1,6 +1,9 @@
 /FlamesOfFury/Saved/
 /FlamesOfFury/Intermediate/
 /FlamesOfFury/DerivedDataCache/
+/FlamesOfFury/Binaries/
+/FlamesOfFury/Build/
+FlamesOfFury/Build/
 
 # Visual Studio 2015 user specific files
 .vs/
@@ -69,3 +72,5 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Binaries/*
